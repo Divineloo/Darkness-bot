@@ -6,7 +6,7 @@ module.exports = {
 		name: "adduser",
 		version: "1.5",
 		author: "NTKhang",
-		countDown: 0,
+		countDown: 5,
 		role: 1,
 		description: {
 			vi: "Thêm thành viên vào box chat của bạn",

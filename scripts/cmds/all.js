@@ -3,7 +3,7 @@ module.exports = {
 		name: "all",
 		version: "1.2",
 		author: "NTKhang",
-		countDown: 0,
+		countDown: 5,
 		role: 1,
 		description: {
 			vi: "Tag tất cả thành viên trong nhóm chat của bạn",

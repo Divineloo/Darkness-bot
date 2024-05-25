@@ -8,7 +8,7 @@ module.exports = {
 		aliases: ["adonly", "onlyad", "onlyadmin"],
 		version: "1.5",
 		author: "NTKhang",
-		countDown: 0,
+		countDown: 5,
 		role: 2,
 		description: {
 			vi: "bật/tắt chế độ chỉ admin mới có thể sử dụng bot",

@@ -33,7 +33,23 @@
     "note": {
       "delayPerGroup": 250
     },
-    "datetime": {}
+    "datetime": {},
+    "ads": {
+      "deltaNext": 5
+    },
+    "antiout": {
+      "deltaNext": 5
+    },
+    "botnick": {
+      "delayPerGroup": 250
+    },
+    "cry": {
+      "deltaNext": 5
+    },
+    "info2": {},
+    "tell": {
+      "delayPerGroup": 250
+    }
   },
   "envEvents": {
     "logsbot": {
